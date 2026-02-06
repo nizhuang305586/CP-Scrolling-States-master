@@ -65,7 +65,7 @@ class Load extends Phaser.Scene {
             repeat: 0,
             frames: this.anims.generateFrameNumbers('hero', { start: 28, end: 31 }),
         })
-
+        //this added
         this.anims.create({
             key: "circular-attack",
             frameRate: 24,

@@ -1,6 +1,6 @@
 // Code Practice: Scrolling States
-// Name:
-// Date: 
+// Name: Nikolas Huang
+// Date: 2/6/26
 
 'use strict'
 
